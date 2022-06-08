@@ -1,5 +1,11 @@
 ---
 title: About Me
+date: 2022-06-08 02:30:21
+permalink: /pages/d61090/
+categories: 
+  - about
+tags: 
+  - 
 ---
 
 # 关于我

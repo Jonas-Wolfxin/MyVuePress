@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/Jonas-Wolfxin/MyVuePress#readme",
   "devDependencies": {
-    "vuepress": "^1.9.7"
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-auto-sidebar": "^2.3.2",
+    "vuepress-theme-vdoing": "^1.12.3"
   }
 }
