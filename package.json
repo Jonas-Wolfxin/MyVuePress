@@ -1,0 +1,25 @@
+{
+  "name": "myvuepress",
+  "version": "1.0.0",
+  "description": "MyVuePress_Bilibili_https://www.bilibili.com/video/BV1vb411m7NY?p=2&amp;spm_id_from=pageDriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonas-Wolfxin/MyVuePress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonas-Wolfxin/MyVuePress/issues"
+  },
+  "homepage": "https://github.com/Jonas-Wolfxin/MyVuePress#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
